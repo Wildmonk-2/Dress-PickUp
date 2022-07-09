@@ -1,0 +1,10 @@
+Information*
+
+Name - Dress Pick Up (Take A Fashion)
+Type - HTML
+Code name - SCRATCH
+Programmed in - HTML, CSS And JavaScript
+Secure - True
+Date - 09.07.2022 Saturday
+phpFile - False
+Credits - Wildmonk-2, SheepTester
