@@ -1,6 +1,6 @@
 # Introduction
 
-Hello! My introfuction, I'm Wildmonk-2 of 10 years old, and from Scratch to here in GitHub Signing In. So Guys, I have made so much games and projects in scratch, and I'm sharing these project in GitHub, so those people who don't use scratch, or need my games and project without any Internet Connection (Offline).
+Hello! My introduction, I'm Wildmonk-2 of 10 years old, and from Scratch to here in GitHub Signing In. So Guys, I have made so much games and projects in scratch, and I'm sharing these project in GitHub, so those people who don't use scratch, or need my games and project without any Internet Connection (Offline).
 
 # About The Game
 
